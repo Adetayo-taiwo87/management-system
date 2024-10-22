@@ -1,0 +1,9 @@
+{
+  "entrepreneurs": [
+    {"firstname":  "Bill", "lastname":  "Gates", "company":  "Microsoft", "alive":  true},
+        {"firstname":  "Micheal", "lastname":  "Dell", "company":  "Dell computers", "alive":  true},
+        {"firstname":  "Bafuto", "lastname":  "Bafuto", "company":  "Bafuto", "alive":  true},
+        {"firstname":  "Alhaja", "lastname":  "alhaja", "company":  "Buy and supply", "alive":  true},
+        {"firstname":  "Mr Isamail", "lastname":  "Ismail", "company":  "Transportation", "alive":  true}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "students": [
+    {"firstname":  "John", "lastname":  "Doe", "age":  34, "id":  1, "reg_no":  "123A"},
+    {"firstname":  "Dammy", "lastname":  "lola", "age":  11, "id":  2, "reg_no":  "123B"},
+    {"firstname":  "Banjo", "lastname":  "james", "age":  24, "id":  3, "reg_no":  "123C"},
+    {"firstname":  "James", "lastname":  "Clinton", "age":  44, "id":  4, "reg_no":  "123D"}
+  ]
+}
